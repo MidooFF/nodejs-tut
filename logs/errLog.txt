@@ -1,0 +1,19 @@
+20250908	17:33:07	d8f9aedb-f1b9-409b-a08c-786fa7744298	Error: Not allowed by CORS
+20250908	17:36:12	1b1ddd68-926e-4399-b43c-df569b0d24c4	Error: Not allowed by CORS
+20250910	17:11:44	720e08ec-1cd1-49aa-8807-1988f6e7253e	Error: Not allowed by CORS
+20250910	17:11:44	0e257e3a-895b-43d7-81c4-5d6696739982	Error: Not allowed by CORS
+20250911	17:01:01	1f1dd89b-ba54-4d7e-9fa8-f04dd3cf33ba	Error: Not allowed by CORS
+20250911	17:01:02	3279370b-0c3e-4303-ad26-29bab887e684	Error: Not allowed by CORS
+20250911	18:02:28	f409116f-792a-4217-8958-b9bdbae57362	ReferenceError: employees is not defined
+20250911	18:03:07	49242f29-33bb-418f-910f-c48c99b0bff4	SyntaxError: Unexpected end of JSON input
+20250911	18:03:56	f9d34f22-e9a1-4e00-9637-d45cea552447	SyntaxError: Unexpected end of JSON input
+20250911	18:05:30	0e4e772d-9704-448f-ae1d-1115489cba00	SyntaxError: Unexpected end of JSON input
+20250911	18:05:31	85df0f97-5ff5-4287-812c-7984b963278c	SyntaxError: Unexpected end of JSON input
+20250911	18:05:33	8b09b7d4-4af3-4504-9b0b-221b456f5ec9	SyntaxError: Unexpected end of JSON input
+20250911	18:05:33	cbe9a36d-2338-4a91-ad8a-ac418204684d	SyntaxError: Unexpected end of JSON input
+20250911	18:05:33	48d560d6-a3b0-437d-b57a-680686efdcd4	SyntaxError: Unexpected end of JSON input
+20250911	18:05:37	9dee07a1-352c-40d2-986e-547f3df6c64e	SyntaxError: Unexpected end of JSON input
+20250911	18:06:03	5faee9bb-9108-4cca-a53d-4fc85dc15f34	SyntaxError: Unexpected end of JSON input
+20250911	18:14:19	ac5846aa-9c59-431c-bdbf-6e1d76b73c71	TypeError: Cannot read properties of undefined (reading 'id')
+20250911	18:14:22	c4fb5678-2176-457e-a65c-4c40e1952dd7	TypeError: Cannot read properties of undefined (reading 'id')
+20250911	18:41:37	0f9ba6bb-ce6b-4c64-8428-9cf0dd6fbf20	TypeError: Cannot read properties of undefined (reading 'id')
