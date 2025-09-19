@@ -1,4 +1,4 @@
-const whitelist = require("./whitelist.js");
+const whitelist = require("./whiteList.js");
 const corsOptions = {
   origin: (origin, callback) => {
     console.log(origin);

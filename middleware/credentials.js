@@ -1,4 +1,4 @@
-const whitelist = require("../config/whitelist.js");
+const whitelist = require("../config/whiteList.js");
 
 const credentials = (req, res, next) => {
   const origin = req.headers.origin;
