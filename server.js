@@ -25,6 +25,8 @@ app.use(credentials);
 
 app.use(cors(corsOptions));
 
+app.options("*", cors(corsOptions));
+
 // built-in middleware to handle urlencoded data
 // in other words 'form data'
 // 'content-type: application/x-www-form-urlencoded
